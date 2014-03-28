@@ -14,7 +14,9 @@ Proof of concept for a many-to-many upd broadcast recipie task runner.
 
 Install
 ------- 
-Git Download 
+
+	git clone https://github.com/blenderman-de/node_taskrunner.git
+
 
 Download `node.exe` v6.9 & copy to root folder
 

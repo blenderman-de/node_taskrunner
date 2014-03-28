@@ -1,0 +1,1 @@
+node assets\js\sender.js %*

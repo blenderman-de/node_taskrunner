@@ -1,0 +1,23 @@
+{
+  "name": "node_taskrunner",
+  "version": "0.0.5",
+  "description": "working concept of many-to-many udp broadcast taskrunner",
+  "main": "/assets/js/client.js",
+  "dependencies": {
+    "colors": "~0.6.2",
+    "sugar": "~1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "sender \"status all\""
+  },
+  "keywords": [
+    "udp",
+    "braodcast",
+    "task",
+    "windows",
+    "many-to-many"
+  ],
+  "author": "Oliver Nürnberger",
+  "license": "MIT"
+}
